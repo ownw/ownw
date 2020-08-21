@@ -35,7 +35,7 @@ An engineer student in artificial intelligence (AI) from France.
 
 ---
 
-<img src="https://media.giphy.com/media/l0HlRerp6WAG4sOJO/giphy.gif" width="480" height="480">
+<img src="https://media.giphy.com/media/l0HlRerp6WAG4sOJO/giphy.gif" width="240" height="240" alt="greenpeace support">
 
 
 
