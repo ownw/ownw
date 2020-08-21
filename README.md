@@ -2,6 +2,7 @@
 
 An engineer student in artificial intelligence (AI) from France.
 
+---
 
 **Languages I have used**
 
@@ -32,6 +33,9 @@ An engineer student in artificial intelligence (AI) from France.
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 
+---
+
+<img src="https://media.giphy.com/media/l0HlRerp6WAG4sOJO/giphy.gif" width="480" height="480">
 
 
 
