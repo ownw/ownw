@@ -32,9 +32,9 @@ An engineer student in artificial intelligence (AI) from France.
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
-
 ---
 
+<img src="https://media.giphy.com/media/lrPvcOmXVBFwsJTnIA/giphy.gif" width="240" height="240" alt="project aware support">
 <img src="https://media.giphy.com/media/l0HlRerp6WAG4sOJO/giphy.gif" width="240" height="240" alt="greenpeace support">
 
 
