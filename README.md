@@ -1,38 +1,35 @@
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 # Hi 👋, I'm Matt
 
 An engineer student in artificial intelligence (AI) from France.
 
 
-**Languages and Tools:**
+**Languages I have used**
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+QyBTaGFycCBpY29uPC90aXRsZT48cGF0aCBkPSJNMTIgMEExMiAxMiAwIDAwMCAxMmExMiAxMiAwIDAwMTIgMTIgMTIgMTIgMCAwMDEyLTEyQTEyIDEyIDAgMDAxMiAwek05LjQyNiA3LjEyYTUuNTUgNS41NSAwIDAxMS45ODUuMzh2MS4xODFhNC41IDQuNSAwIDAwLTIuMjUtLjU2NiAzLjQzOSAzLjQzOSAwIDAwLTIuNjI1IDEuMDg3IDQuMDk5IDQuMDk5IDAgMDAtMS4wMTIgMi45MDYgMy45IDMuOSAwIDAwLjk0NSAyLjc1NCAzLjIxNyAzLjIxNyAwIDAwMi40ODIgMS4wMjMgNC42NTcgNC42NTcgMCAwMDIuNDY0LS42MzRsLS4wMDQgMS4wOGE1LjU0MyA1LjU0MyAwIDAxLTIuNjI1LjU1NSA0LjIxMSA0LjIxMSAwIDAxLTMuMjI4LTEuMjk3IDQuNzkzIDQuNzkzIDAgMDEtMS4yMTItMy40MDkgNS4wMjEgNS4wMjEgMCAwMTEuMzY1LTMuNjYzIDQuNjMxIDQuNjMxIDAgMDEzLjQ3My0xLjM5MiA1LjU1IDUuNTUgMCAwMS4xMi0uMDA0IDUuNTUgNS41NSAwIDAxLjEyMiAwem01Ljg2My4xNTVoLjgzNmwtLjU1NSAyLjY1MmgxLjY2MWwuNTY3LTIuNjUyaC44MWwtLjU1NSAyLjY1MiAxLjczMi0uMDA0LS4xNS42OTdIMTcuOTFsLS40MTIgMS45OGgxLjg1MmwtLjE3Ni42OThoLTEuODE2bC0uNTggMi42MjVoLS44M2wuNTY3LTIuNjI1aC0xLjY1bC0uNTU1IDIuNjI1aC0uODFsLjU1NS0yLjYyNWgtMS43NGwuMTMxLS42OThoMS43NDhsLjQwMS0xLjk3NmgtMS44MjZsLjEzOC0uNjk3aDEuODI2em0uMTQyIDMuMzQ1TDE1IDEyLjZoMS42NzNsLjQyMy0xLjk4eiIvPjwvc3ZnPg==)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+**Some of technologies I have worked with**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/></code> 
 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> </code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20"/> </code>
 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="20" height="20"/> </code>
 
-<code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/> </code>
-<code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </code>
-<code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </code>
-
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></code> 
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></code> 
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> </code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> </code>
