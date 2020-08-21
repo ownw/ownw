@@ -15,9 +15,11 @@ An engineer student in artificial intelligence (AI) from France.
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=powershell)
 
 **Some of technologies I have worked with**
 
@@ -34,6 +36,11 @@ An engineer student in artificial intelligence (AI) from France.
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20PI-000000?style=flat&logo=raspberry-pi)
 ![Garmin](https://img.shields.io/badge/-Garmin-000000?style=flat&logo=garmin)
+![Mocha](https://img.shields.io/badge/-Mocha-000000?style=flat&logo=mocha)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=peertube&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=affinity-photo)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-000000?style=flat&logo=google-chrome&logoColor=green)
 
 ---
 
