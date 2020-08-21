@@ -1,6 +1,8 @@
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 # Hi 👋, I'm Matt
 
-### An engineer student in AI from France
+An engineer student in artificial intelligence (AI) from France.
 
 
 **Languages and Tools:**
