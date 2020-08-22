@@ -40,6 +40,8 @@ An engineer student in artificial intelligence (AI) from France.
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=peertube&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=affinity-photo)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex)
+![CPlex](https://img.shields.io/badge/-CPlex-000000?style=flat&logo=ibm)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-000000?style=flat&logo=google-chrome&logoColor=green)
 
 ---
