@@ -4,7 +4,7 @@ An engineer student in computer sciences from France.
 
 ---
 
-**Languages I have used**
+**✒️ Languages I have used**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -21,7 +21,7 @@ An engineer student in computer sciences from France.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=powershell)
 
-**Some of the techs I have worked with**
+**📡 Some techs I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
@@ -50,15 +50,11 @@ An engineer student in computer sciences from France.
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-000000?style=flat&logo=google-chrome&logoColor=green)
 ![Hasura](https://img.shields.io/badge/-Hasura-000000?style=flat&logo=hasura&logoColor=blue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=violet)
-![Google Calendar](https://img.shields.io/badge/-Google%20Calendar%20API-000000?style=flat&logo=Google-Calendar)
-![Google Maps](https://img.shields.io/badge/-Google%20Maps%20API-000000?style=flat&logo=Google-Maps&logoColor=gray)
-![Google My Business](https://img.shields.io/badge/-Google%20MyBusiness%20API-000000?style=flat&logo=Google-My-Business&logoColor=3044ab)
-![Google Workspace](https://img.shields.io/badge/-Google%20Workspace%20API-000000?style=flat&logo=Google-Tag-Manager&logoColor=red)
 
 ---
 
 
-**Support [Project Aware](https://www.projectaware.org/)**
+### **♻️ Support [Project Aware](https://www.projectaware.org/) 🐟🐳🐬🌊**
 <p align="center">
 <img src="https://media.giphy.com/media/lrPvcOmXVBFwsJTnIA/giphy.gif" width="240" height="240" alt="project aware support">
 <img src="https://media.giphy.com/media/iIXi541ntrfCxDztDh/giphy.gif" width="240" height="240" alt="project aware support">
