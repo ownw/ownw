@@ -1,7 +1,5 @@
-![](https://github.com/ownw/ownw/public/header.webp)
-
-![](https://github.com/ownw/ownw/public/emoj.svg)
-
+![](./public/header.webp)
+---
 ![Yarn](https://img.shields.io/badge/Yarn-white.svg?style=flat&logo=yarn&logoColor=%232C8EBB)
 ![TypeScript](https://img.shields.io/badge/Typescript-white.svg?style=flat&logo=typescript&logoColor=%23007ACC)
 ![React](https://img.shields.io/badge/React-white.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -15,15 +13,3 @@
 ![Ansible](https://img.shields.io/badge/Ansible-learning-gray.svg?style=flat&logo=ansible&logoColor=%231A1918&labelColor=white)
 ![WSL](https://img.shields.io/badge/WSL-white?style=flat&logo=windowsterminal&logoColor=black)
 ![Jetbrains](https://img.shields.io/badge/Jetbrains_IDEs-white?style=flat&logo=jetbrains&logoColor=black)
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ownw&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ownw&theme=swift&hide_border=false)<br/>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ownw&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
